@@ -5,14 +5,16 @@ This repository contains small engineering-related Python tools and practice pro
 ## Purpose
 I created this repository to practice using Python for engineering applications and to build a portfolio of technical projects over time.
 
-## Planned Projects
+## Current Tools
 - Unit converter
-- Basic force/component calculator
+- Force/component calculator
 - Projectile motion calculator
-- Simple engineering utilities
+- Stress and strain calculator
+- Moment calculator
 
-## Tools Used
-- Python
+## Planned Projects
+- Beam reaction helper
+- Additional engineering utilities
 
 ## Notes
 This repository will grow as I continue building projects and learning more about engineering problem-solving with code.
