@@ -6,5 +6,8 @@ def meters_to_feet(meters):
 def feet_to_meters(feet):
     return feet / 3.28084
 
-print("10 meters =", meters_to_feet(10), "feet")
-print("10 feet =", feet_to_meters(10), "meters")
+value_meters = 10
+value_feet = 10
+
+print(f"{value_meters} meters = {meters_to_feet(value_meters):.2f} feet")
+print(f"{value_feet} feet = {feet_to_meters(value_feet):.2f} meters")
